@@ -2,14 +2,13 @@
 
 ### Main languages
 
-* Javascript
+* Javascript 📍 const MyMainLanguage = () => {...} export default MyMainLanguage();
   * React JS
   * Angular JS
-    * most used, mainly frontend applications
 * HTML & CSS
 * Python
 * C#
-  most used, mainly backend applications
+  * .NET
 * SQL
 
 
