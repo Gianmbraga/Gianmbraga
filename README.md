@@ -32,8 +32,7 @@
 * reach me through: ✉ gianpietro991@gmail.com
 * Currently studying computer science (since 2019)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianmbraga&layout=compact&langs_count=7&theme=yeblu"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gianmbraga&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianmbraga&layout=compact&langs_count=7&theme=yeblu"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gianmbraga&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&layout=compact"/>
 
 <!--
 **Gianmbraga/Gianmbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
