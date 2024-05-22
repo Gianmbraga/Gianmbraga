@@ -10,9 +10,22 @@
 * C#
   * .NET
 * SQL
- * SQL Server >>>> all
+  * SQL Server > all
+* Java
+* C (don't... just don't)
 
+## Main Activities
 
+* Endpoints using Rest APIs
+* UX & UI Design
+* Data Analysis
+* Coding frontend applications
+* Look for stupid extensions for VScode
+
+## Extra Info
+
+* reach me through: ✉ gianpietro991@gmail.com
+* Currently studying computer science (since 2019)
 
 <!--
 **Gianmbraga/Gianmbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
