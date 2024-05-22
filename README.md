@@ -2,7 +2,7 @@
 
 ### Main languages
 
-* (![image](https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86) width="48") 📍 const MyMainLanguage = () => {...} export default MyMainLanguage();
+* (![image](https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150)) 📍 const MyMainLanguage = () => {...} export default MyMainLanguage();
   * React JS
   * Angular JS
 * HTML & CSS
