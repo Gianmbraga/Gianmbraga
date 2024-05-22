@@ -13,7 +13,7 @@
 * Java
 * C (don't... just don't)
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
-<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/0e033ed1-3120-459a-a6cd-bf19113f22f7" width="50" height="50">
+<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/0e033ed1-3120-459a-a6cd-bf19113f22f7" width="40" height="40">
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
