@@ -2,8 +2,10 @@
 
 ### Main languages
 
-* Javascript (React.js, AngularJS)
-  most used, mainly frontend applications
+* Javascript
+  * React JS
+  * Angular JS
+    * most used, mainly frontend applications
 * HTML & CSS
 * Python
 * C#
