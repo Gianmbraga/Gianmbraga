@@ -2,7 +2,7 @@
 
 ### Main languages
 
-* Javascript 📍 const MyMainLanguage = () => {...} export default MyMainLanguage();
+* ![picture alt](![image](https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86)) 📍 const MyMainLanguage = () => {...} export default MyMainLanguage();
   * React JS
   * Angular JS
 * HTML & CSS
@@ -13,16 +13,20 @@
   * SQL Server > all
 * Java
 * C (don't... just don't)
+  
+- - - -
 
-## Main Activities
+### Main Activities
 
 * Endpoints using Rest APIs
 * UX & UI Design
 * Data Analysis
 * Coding frontend applications
 * Look for stupid extensions for VScode
+  
+- - - -
 
-## Extra Info
+### Extra Info
 
 * reach me through: ✉ gianpietro991@gmail.com
 * Currently studying computer science (since 2019)
