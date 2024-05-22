@@ -1,4 +1,4 @@
-## Here i display some projects which are not related to work. My main languages are: Javascript, C#, Python with their respectives frameworks if needed
+## Hey fellas 👋 Here i display some projects which are not related to professional work. Just personal and academical work
 
 ### Main languages
 
@@ -10,6 +10,7 @@
 * C#
   * .NET
 * SQL
+ * SQL Server >>>> all
 
 
 
