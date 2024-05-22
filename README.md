@@ -12,7 +12,7 @@
   * SQL Server > all
 * Java
 * C (don't... just don't)
-<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/69d727ea-4651-4214-b390-895f9a4b596b" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40">
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/385d9481-2265-404c-9b97-be590ec5dc2e" width="40" height="40">
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/e6bb2fbf-d2c8-49dc-b158-a16c409b8e06" width="40" height="40">
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/5d986bfd-d75a-4735-ac09-1f3b17b095b0" width="40" height="40">
