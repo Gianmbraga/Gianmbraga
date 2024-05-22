@@ -1,7 +1,7 @@
 ## Hey fellas 👋 Here i display some projects which are not related to professional work. Just personal and academical work
 
 ### Main languages
-* <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50"> 📍 const MyMainLanguage = () => {...} export default MyMainLanguage();
+* Javascript 📍 const MyMainLanguage = () => {...} export default MyMainLanguage();
   * React JS
   * Angular JS
 * HTML & CSS
@@ -12,7 +12,7 @@
   * SQL Server > all
 * Java
 * C (don't... just don't)
-  
+  <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
 - - - -
 
 ### Main Activities
