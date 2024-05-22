@@ -12,7 +12,15 @@
   * SQL Server > all
 * Java
 * C (don't... just don't)
-  <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
+<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
+<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/ff95bdaf-65a5-471b-9792-0e5fdbe13eef" width="50" height="50">
+<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
+<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
+<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
+<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
+<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
+<img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/1dfff505-ad5d-4873-8d30-7597b16e7d86/200x150" width="50" height="50">
+
 - - - -
 
 ### Main Activities
