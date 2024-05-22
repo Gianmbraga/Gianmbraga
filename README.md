@@ -13,9 +13,9 @@
 * Java
 * C (don't... just don't)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40">
+
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/5d986bfd-d75a-4735-ac09-1f3b17b095b0" width="40" height="40">
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/fb44b014-53cb-4259-ace4-220143961894" width="40" height="40">
 <img src="https://github.com/Gianmbraga/Gianmbraga/assets/125613344/f7ce01cf-2741-4bdf-927e-ad6693a044a9" width="40" height="40">
