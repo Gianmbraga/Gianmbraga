@@ -1,4 +1,13 @@
-## Hi there 👋
+## Here i display some projects which are not related to work. My main languages are: Javascript, C#, Python with their respectives frameworks if needed
+
+### Main languages
+
+* Javascript (React.js, AngularJS)
+* HTML & CSS
+* Python
+* C#
+
+
 
 <!--
 **Gianmbraga/Gianmbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
